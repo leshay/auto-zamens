@@ -138,6 +138,3 @@ API возвращает соответствующие HTTP статусы:
 ```bash
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leshay)](https://github.com/anuraghazra/github-readme-stats)
